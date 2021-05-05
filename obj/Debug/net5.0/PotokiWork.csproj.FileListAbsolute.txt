@@ -1,0 +1,16 @@
+C:\Users\ku9li\source\repos\PotokiWork\bin\Debug\net5.0\PotokiWork.exe
+C:\Users\ku9li\source\repos\PotokiWork\bin\Debug\net5.0\PotokiWork.deps.json
+C:\Users\ku9li\source\repos\PotokiWork\bin\Debug\net5.0\PotokiWork.runtimeconfig.json
+C:\Users\ku9li\source\repos\PotokiWork\bin\Debug\net5.0\PotokiWork.runtimeconfig.dev.json
+C:\Users\ku9li\source\repos\PotokiWork\bin\Debug\net5.0\PotokiWork.dll
+C:\Users\ku9li\source\repos\PotokiWork\bin\Debug\net5.0\ref\PotokiWork.dll
+C:\Users\ku9li\source\repos\PotokiWork\bin\Debug\net5.0\PotokiWork.pdb
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\PotokiWork.csprojAssemblyReference.cache
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\PotokiWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\PotokiWork.AssemblyInfoInputs.cache
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\PotokiWork.AssemblyInfo.cs
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\PotokiWork.csproj.CoreCompileInputs.cache
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\PotokiWork.dll
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\ref\PotokiWork.dll
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\PotokiWork.pdb
+C:\Users\ku9li\source\repos\PotokiWork\obj\Debug\net5.0\PotokiWork.genruntimeconfig.cache
